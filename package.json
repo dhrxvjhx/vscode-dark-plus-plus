@@ -1,0 +1,40 @@
+{
+    "name": "dark-plus-plus",
+    "displayName": "Dark++",
+    "description": "Dark theme extension",
+    "publisher": "dhrxvjhx",
+    "author": {
+        "name": "Dhruv Jha",
+        "email": "developer.dhruvjha@gmail.com"
+    },
+    "license": "MIT",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "galleryBanner": {
+        "color": "#09131b",
+        "theme": "dark"
+    },
+    "keywords": [
+        "Dark theme",
+        "theme",
+        "Full Dark theme"    
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "url": "https://github.com/dhrxvjhx/vscode-dark-plus-plus.git",
+        "type": "git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark ++",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark ++-color-theme.json"
+            }
+        ]
+    }
+}
