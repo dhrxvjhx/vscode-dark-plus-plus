@@ -16,3 +16,5 @@ Date Format - DD-MM-YYYY.
 - Better README
 - MIT LICENSE initiated
 - Github Repo initiated
+
+- Logo Added

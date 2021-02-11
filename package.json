@@ -8,7 +8,7 @@
         "email": "developer.dhruvjha@gmail.com"
     },
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -16,6 +16,7 @@
         "color": "#09131b",
         "theme": "dark"
     },
+    "icon": "release/Dark++.png",
     "keywords": [
         "Dark theme",
         "theme",
